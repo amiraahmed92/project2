@@ -1,0 +1,14 @@
+git branch dev
+git checkout dev
+touch file1
+touch file2
+git add file1
+git add file2
+git commit -m "message"
+git push origin dev
+git checkout master
+git merge dev
+git push origin master
+git push origin :dev
+git branch -d dev       empty
+git branch -D dev       non empty
