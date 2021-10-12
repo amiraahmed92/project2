@@ -1,0 +1,8 @@
+mkdir project3
+cd project3
+touch amirapro3
+git init
+git  add amirapro3
+git commit -m "creat new project"
+git remote add origin url ssh
+git push origin master
