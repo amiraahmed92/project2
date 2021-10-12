@@ -4,10 +4,10 @@
 ## foobar is the python library for dealing with world pluralization
 
 # installation
-## use the package manager pip to install foobar
+## use the package manager [pip](https://pypi.org/project/pip/) to install foobar
 
 ```
-[pip](https://pypi.org/project/pip/) install foobar
+pip install foobar
 
 ```
 
