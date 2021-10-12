@@ -7,7 +7,7 @@
 ## use the package manager pip to install foobar
 
 ```
-pip install foobar
+[pip](https://pypi.org/project/pip/) install foobar
 
 ```
 
@@ -26,4 +26,4 @@ foobar.pluralize ('phenomena') #return 'phenomena'
 
 # license
 
-## MIT
+[MIT](https://www.mit.edu/)
