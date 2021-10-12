@@ -1,0 +1,20 @@
+touch file5
+git add file5
+git commit -m "messeage"
+git log
+git tag -a v1.4 -m "annoted tag"
+git push origin v1.4
+
+
+to list tag locally
+git tag
+
+to delete tag from remote 
+git push origin --delete v1.4
+or
+git push origin :refs/tags/v1.4
+
+
+to delete locally
+
+git tag -d v1.4
